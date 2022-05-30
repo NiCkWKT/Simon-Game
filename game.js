@@ -80,3 +80,5 @@ function startOver() {
     gamePattern = [];
     started = false;
 }
+
+//git demo
