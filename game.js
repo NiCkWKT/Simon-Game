@@ -5,6 +5,7 @@ var gamePattern = [];
 var userClickedPattern = [];
 var started = false;
 var level = 0;
+//change
 
 $(".btn").click(function() {
     userChosenColor = $(this).attr("id");
